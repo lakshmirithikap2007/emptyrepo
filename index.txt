@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 modifying....
 hi hello
+=======
+hello this is my changed doc
+hi this is rithika
+
+>>>>>>> feature-ui
